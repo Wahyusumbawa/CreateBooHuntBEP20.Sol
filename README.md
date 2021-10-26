@@ -1,2 +1,2 @@
-# CreateBooHuntBEP20.Sol
+# CreateNFTBEP20.Sol
 Membuat Token Crypto Jaringan BEP20.sol
